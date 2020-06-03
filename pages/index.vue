@@ -2,7 +2,8 @@
 // 
 <template>
   <div class="index">
-    
+    <nuxt-link to="web_study">web_study</nuxt-link>
+    <nuxt-link to="about">about</nuxt-link>
   </div>
 </template>
 

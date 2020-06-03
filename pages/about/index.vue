@@ -1,13 +1,14 @@
-// dependency: //
+// dependency: 
+// 
 <template>
-  <v-app>
-    <nuxt />
-  </v-app>
+  <div class="index">
+    about
+  </div>
 </template>
 
 <script>
   export default {
-    name: "default",
+    name: "index",
     components: {},
     data() {
       return {};
@@ -19,4 +20,5 @@
     mounted() {},
   };
 </script>
-<style scoped></style>
+<style scoped>
+</style>
