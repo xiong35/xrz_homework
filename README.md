@@ -1,6 +1,8 @@
-# xrz
+# xrz's web homework
 
-> xrz&#39;s web homework
+本网站使用 nuxt 制作  
+
+源代码若要运行, 需要有 node 环境, 在此目录下输入以下命令即可:
 
 ## Build Setup
 

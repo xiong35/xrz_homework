@@ -4,9 +4,12 @@ export default {
   /*
   ** Headers of the page
   */
+  router: {
+    base: '/xrz/'
+  },
   head: {
     titleTemplate: '%s - ' + "XRZ",
-    title: 'home' ,
+    title: 'home',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },

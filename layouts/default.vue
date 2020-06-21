@@ -40,6 +40,12 @@
         </v-col>
       </v-row>
     </v-main>
+    <v-footer class="font-weight-medium">
+      <v-col class="text-center" cols="12">
+        徐睿泽 - 机械1910 - 联系我:
+        <a href="mailto:404675430@qq.com">404675430@qq.com</a>
+      </v-col>
+    </v-footer>
   </v-app>
 </template>
 
