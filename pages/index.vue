@@ -16,11 +16,9 @@
           </span>
         </v-list-item-content>
 
-        <v-list-item-avatar
-          tile
-          size="120"
-          color="grey"
-        ></v-list-item-avatar>
+        <v-list-item-avatar tile size="120">
+          <v-img :src="require('~/static/img/me.jpg')"></v-img>
+        </v-list-item-avatar>
       </v-list-item>
 
       <v-card-actions class="px-4">
@@ -59,7 +57,8 @@
       </p>
 
       <v-card-text>
-        学海无涯, <del>回头是岸</del>要想学好, 除了要勤奋, 还得有好的学习方法! <br>
+        学海无涯, <del>回头是岸</del>要想学好, 除了要勤奋,
+        还得有好的学习方法! <br />
         来看看我总结的学习经验吧!
       </v-card-text>
 
