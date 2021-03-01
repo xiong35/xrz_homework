@@ -1,6 +1,6 @@
 # xrz's web homework
 
-本网站使用 nuxt 制作  
+本网站使用 nuxt 制作, 部署于[http://www.xiong35.cn/xrz](http://www.xiong35.cn/xrz)
 
 源代码若要运行, 需要有 node 环境, 在此目录下输入以下命令即可:
 
